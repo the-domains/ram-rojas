@@ -1,0 +1,28 @@
+name: Ram Rojas
+favicon: null
+layout_spectrum: 0.9537862320430577
+typography_spectrum: 0.5469398542772979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4281029759440571
+  lightness: 0.8345130919478834
+  saturation: 0.9958604844287038
+  rhythmicContrast: 0.3925850058440119
+purpose: []

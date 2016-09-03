@@ -1,20 +1,4 @@
-name: Ram Rojas
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.5469398542772979
-title: Ram Rojas
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,21 @@ color:
   lightness: 0.0625
   saturation: 0.9958604844287038
   rhythmicContrast: 0.3925850058440119
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ram Rojas
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ram Rojas
+description: Muralist and Painter
 purpose: []
